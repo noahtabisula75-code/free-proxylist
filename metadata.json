@@ -1,0 +1,6 @@
+{
+  "name": "Proxy List Explorer",
+  "description": "Explore free proxies with country, speed, and port information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
